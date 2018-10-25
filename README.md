@@ -1,4 +1,4 @@
-# WEBPORFOLIO PAGE
+# WEBPORTFOLIO PAGE
 
 
 1. 리디자인 사이트 포트폴리오 목록
